@@ -108,4 +108,4 @@ Contributions are welcome! Feel free to submit a PR or open an issue.
 ---
 
 ## 📧 Contact
-For any inquiries, feel free to reach out at: **your-email@example.com**
+For any inquiries, feel free to reach out at: **sangameshlingshetty@gmail.com**
